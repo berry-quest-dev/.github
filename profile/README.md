@@ -3,7 +3,7 @@
 <div align="center" dir="auto">
   <p dir="auto">
     <a href="https://git.io/typing-svg" rel="nofollow">
-      <img src="https://readme-typing-svg.demolab.com?font=Barriecito&weight=500&size=30&letterSpacing=2px&pause=1000&color=F590C3&center=true&vCenter=true&repeat=true&width=600&lines=Hello+!+This+is+Berry+Quest+DEV" alt="Berry Quest Dev" style="max-width: 100%;" />
+      <img src="https://readme-typing-svg.demolab.com?font=Barriecito&weight=500&size=30&letterSpacing=2px&pause=1000&color=F590C3&center=true&vCenter=true&repeat=true&width=600&lines=Hello+!+This+is+Berry+Quest+DEV" alt="Berry Quest Dev" style="max-width: 100%;" />
     </a>
   </p>
 </div>
